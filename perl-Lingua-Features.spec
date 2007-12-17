@@ -18,7 +18,6 @@ Buildrequires:	perl-XML-Generator
 Buildrequires:	perl-List-Compare
 Buildrequires:  perl-Tie-IxHash
 Buildarch:      noarch
-BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 This module implements natural languages features in Perl. Its brings the
