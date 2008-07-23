@@ -1,7 +1,7 @@
 %define module	Lingua-Features
 %define name	perl-%{module}
 %define version 0.3.1
-%define release %mkrel 2
+%define release %mkrel 4
 
 Name:		%{name}
 Version:	%{version}
