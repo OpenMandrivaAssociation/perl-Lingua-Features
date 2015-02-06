@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	0.3.1
-Release:	7
+Release:	8
 Summary:	Natural languages features
 License:	GPL or Artistic
 Group:		Development/Perl
