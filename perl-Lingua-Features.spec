@@ -6,7 +6,7 @@ Release:	8
 Summary:	Natural languages features
 License:	GPL or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{module}
+Url:		https://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module/Lingua/%{module}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildRequires:	perl(XML::Generator)
